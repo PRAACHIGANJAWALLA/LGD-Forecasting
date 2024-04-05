@@ -37,3 +37,4 @@ difference between the observed values of the dependent variable and the values
 predicted by the model. Like logistic regression, we performed cross-validated
 predictions on the training set and evaluated the model's performance using MSE (Mean
 squared error) & R-squared. Our outcome is $ amount of Recovery and LGD%.
+
